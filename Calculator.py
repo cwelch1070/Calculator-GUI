@@ -1,5 +1,5 @@
 #https://www.youtube.com/watch?v=YXPyB4XeYLA
-#stoped at 1:06:47
+#stoped at 1:16:31
 from tkinter import*
 from typing import Match
 
